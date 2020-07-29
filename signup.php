@@ -8,8 +8,8 @@
 
 <?php
 $servername = "localhost";
-$username = "swarnya";
-$password = "FeyT0L@Tef3";
+$username = "usrename";
+$password = "password";
 $dbname = "mporio";
 
 // Create connection
